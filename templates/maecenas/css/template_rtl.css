@@ -1,0 +1,764 @@
+/*======================================================================*\
+|| #################################################################### ||
+|| # Package - Joomla Template based on YJSimpleGrid Framework          ||
+|| # Copyright (C) 2010  Youjoomla LLC. All Rights Reserved.            ||
+|| # license - PHP files are licensed under  GNU/GPL V2                 ||
+|| # license - CSS  - JS - IMAGE files  are Copyrighted material        ||
+|| # bound by Proprietary License of Youjoomla LLC                      ||
+|| # for more information visit http://www.youjoomla.com/license.html   ||
+|| # Redistribution and  modification of this software                  ||
+|| # is bounded by its licenses                                         ||
+|| # websites - http://www.youjoomla.com | http://www.yjsimplegrid.com  ||
+|| #################################################################### ||
+\*======================================================================*/
+body {
+	direction: rtl;
+}
+p, div, li, ul, h1, h2, h3, h4, h5, h6, div.title h1, div.title h2, .componentheading, span, th, td, tr, input, .contentpane {
+	text-align:right;
+}
+/* layout1.php , layout2.php, layout3.php reset and layout1.php main floats. layout 1 does not contain insettop and insetbottom*/
+#leftblock, #midblock, #rightblock, #insetblock, #insetsholder_2t, #insetsholder_2b, #insetsholder_3t, #insetsholder_3b {
+	text-align:right;
+	float:right;
+}
+/* layout3.php*/
+#holder2 #midblock {
+	float:right;
+}
+#holder2 #leftblock, #holder2 #rightblock, #holder2 #insetblock {
+	float:left;
+}
+#holder2 #insetsholder_2t {
+	float:right;
+}
+#holder2 #insetsholder_2b {
+	float:left;
+}
+/*layout3.php*/
+#holder3 #midblock {
+	float:left;
+}
+#holder3 #leftblock, #holder3 #rightblock, #holder3 #insetblock {
+	float:right;
+}
+#holder3 #insetsholder_3t {
+	float:left;
+}
+#holder3 #insetsholder_3b {
+	float:right;
+}
+.yjsgxhtml {
+	float:right;
+	clear:left;
+	text-align:left;
+	margin:0;
+	padding:0;
+}
+div.title h1 {
+	width:100%;
+	display:block;
+}
+.readon {
+	float:right;
+}
+ul li {
+	padding-right:15px;
+}
+#logo a {
+	line-height:900px;
+}
+.yjsglogo {
+	left:0px;
+	right:auto;
+}
+.validators {
+	float:right;
+	text-align:right;
+}
+#footmod ul.menu-nav {
+	text-align:right;
+}
+#footmod ul li {
+	padding:0 0 0 15px;
+	text-align:right;
+}
+#pathway .yjsg_breadcrumbs a.pathway {
+	background: url(../images/arrow_rtl.png) no-repeat right center;
+}
+#joomlacredit{
+	text-align:right;
+}
+/* k2*/
+div.itemHeader span.itemDateCreated {
+	position:absolute;
+	top:34px;
+	right:160px;
+}
+div.k2ItemsBlock ul li img.moduleItemAuthorAvatar {
+	display:block;
+	position:absolute;
+	left:10px;
+	float:left;
+}
+div.k2LatestCommentsBlock ul li img.lcAvatar, div.k2ItemsBlock ul li p.moduleItemIntrotext a.moduleItemImage img {
+	float:right;
+	margin:2px 0 4px 4px;
+}
+/* Rating --- */
+.itemRatingForm {
+	float: right;
+}
+.itemRatingLog {
+	padding: 0 4px 0 0;
+	float: right;
+}
+div.itemRatingForm .formLogLoading {
+	background-position: right center;
+	padding: 0 20px 0 0;
+}
+.itemRatingList, .itemRatingList a:hover, .itemRatingList .itemCurrentRating {
+	background-position: right -1000px;
+}
+.itemRatingList {
+	float: right;
+	background-position: right top;
+	direction: ltr;
+}
+.itemRatingList a, .itemRatingList .itemCurrentRating {
+	left: auto;
+	right: 0;
+}
+.itemRatingList a:hover {
+	background-position: right bottom;
+}
+.itemRatingList .itemCurrentRating {
+	background-position: right center;
+}
+#k2Container .itemRatingList .itemCurrentRating {
+	background-position: right -26px;
+}
+ul.itemRatingList li a {
+	line-height:500px;
+}
+div.itemRatingBlock span {
+	float:right;
+	margin:3px 0 0 0;
+}
+/* Item image in item view */
+.itemImageBlock, .itemImageBlock .itemImage, .itemImageBlock .itemImage img {
+	float:right;
+}
+div.itemExtraFields ul li span.itemExtraFieldsLabel {
+	float:right;
+	text-align:right;
+}
+div.itemExtraFields ul li span.itemExtraFieldsValue {
+	float:right;
+	text-align:right;
+}
+div.itemSocialLinksBlock {
+	float:right;
+	text-align:right;
+}
+div.itemCommentsForm form input.inputbox, div.itemCommentsForm form textarea.inputbox {
+	float:right;
+	text-align:right;
+}
+div.itemCommentsForm form label.formName, div.itemCommentsForm form label.formEmail, div.itemCommentsForm form label.formUrl {
+	text-align:right;
+	clear:both;
+	display:block;
+	margin:12px 5px 0 0;
+}
+div.itemCommentsForm form input.button {
+	float:right;
+	margin:5px 0 25px 0;
+}
+.itemBackToTop {
+	float:left;
+}
+div.itemToolbar {
+	text-align:right;
+}
+div.itemToolbar ul {
+	text-align:right;
+	float:right;
+}
+#mainlevel li a, .menu li a, a.mainlevel, .k2CategoriesListBlock ul li a, .k2CategoriesListBlock ul li a:hover, div.k2CategoriesListBlock ul li.activeCategory ul.level1 a, .yjsquare li.active ul li a:hover, .yjsquare li.active ul li.active a {
+	background-position: right top;
+}
+#mainlevel li a:hover, #mainlevel a#active_menu:link, #mainlevel a#active_menu:visited, a.mainlevel:hover, a.mainlevel#active_menu, #mainlevel li a:hover, #mainlevel a#active_menu:link, #mainlevel a#active_menu:visited, .menu li a:hover, .menu li.active a, div.k2CategoriesListBlock ul li.activeCategory a, div.k2CategoriesListBlock ul li.activeCategory ul.level1 a:hover {
+	background-position: right bottom;
+}
+.k2CategoriesListBlock ul li, .k2CategoriesListBlock ul li:hover {
+	text-align:right;
+}
+.k2CategoriesListBlock ul.level0 a {
+	padding:5px 20px 0 0;
+}
+.k2CategoriesListBlock ul.level1 a {
+	padding:5px 30px 0 0;
+}
+span.catItemImage img {
+	float:right;
+}
+/* side menu */
+a.mainlevel, .yjsquare ul.menu li a {
+	padding:5px 25px 0 0;
+}
+#footmod a.mainlevel{
+	padding:0;
+}
+/* poll */
+table.pollstableborder {
+	text-align: right;
+}
+dl.poll dt {
+	clear: right;
+}
+dl.poll dd {
+	clear:left;
+}
+dl.poll dt, dl.poll dd {
+	float: right;
+}
+.poll input {
+	float: right;
+	margin:3px 0 0 5px;
+}
+.poll br {
+	clear: both;
+}
+.newsitem_tools {
+	text-align:right;
+}
+.newsitem_info,
+.newsitem_info span{
+	float:right;
+}
+.newsitem_published{
+	padding:0 0 0 10px;
+}
+/* buttonheading  CONTAINS PRINT,EMAIL , PDF BITTONS */
+.buttonheading {
+	float:left;
+}
+.buttonheading .email, .buttonheading .print, .buttonheading .pdf {
+	float:left;
+	margin:0 4px 0 4px;
+}
+.readb {
+	float:left;
+	display:block;
+	line-height:500px;
+}
+#yjsg1 .readon {
+	float:left;
+}
+/* typo*/
+.dropcap {
+	float:right;
+	padding:4px 0 0 8px;
+}
+p.sticky, p.pin, p.clip, p.down {
+	padding:20px 40px 10px 20px;
+	background-position: right center;
+}
+.bignumber {
+	float:right;
+	text-align:right;
+}
+ul.video li, li.video, li.video:hover, ul.check li, li.check, li.check:hover, ul.star li, li.star, li.star:hover {
+	padding-right:25px;
+}
+.error, .message, .tips {
+	background-position: right center;
+	padding:5px 20px 5px 0px !Important;
+	text-indent:0;
+}
+body ul.star li, body li.star {
+	background-position: right 1px;
+}
+body ul.video li, body li.video, body li.video:hover {
+	background-position: right 0;
+}
+/*RTL  rounded corners*/
+.yjround {
+	margin:0px auto;
+	margin-right:10px!Important;  /* default, width of left corner */
+	margin-left:0!Important;
+}
+.yjround .content {
+	padding:0px 0px 0px 10px!Important;
+}
+.yjround .content, .yjround .t, .yjround .b, .yjround .b div.bin {
+	background-position:top left!Important;
+}
+.yjround .t {
+	/* top+left vertical slice */
+ position:absolute;
+	left:auto!Important;
+	right:0px!Important;
+	margin-right:-10px!Important;
+	margin-left:0!Important;
+	background-position:top right!Important;
+}
+.yjround .b {
+	background-position:bottom left!Important;
+}
+.yjround .b div.bin {
+	position:relative;
+	width:10px!Important; /* bottom right corner width */
+	margin-right:-10px!Important;
+	margin-left:0!Important;
+	background-position:bottom right!Important;
+}
+ul.subul_main li.haschild span.child a:hover, ul.subul_main ul.subul_main li.haschild span.child a:hover, ul.subul_main ul.subul_main ul.subul_main li.haschild span.child a:hover, ul.subul_main ul.subul_main ul.subul_main ul.subul_main li.haschild span.child a:hover {
+	background-repeat:no-repeat!important;
+	background-repeat:no-repeat!important;
+	background-position:5% 50%!important;
+}
+/* TOP MENUS*/
+.horiznav ul li {
+	float:right;
+}
+.horiznav li li {
+	float:right;
+}
+.YJSG_listContainer ul {
+	float:right;
+	width:100%;
+}
+.YJSG_listContainer ul li {
+	width:100%;
+}
+/* EXTRAS*/
+/* IMAGE AND DESC*/
+span.yjm_has_all {
+	background-position:99% 5px;
+	background-repeat:no-repeat;
+	padding:0 30px 0 0px;
+}
+/* ul ul style */
+ul.subul_main span.yjm_has_all {
+	background-position:99% 5px;
+	padding:0px 30px 5px 10px;
+	margin-right:8px;
+	margin-left:0;
+}
+ul.subul_main span.yjm_has_all span.yjm_title {
+	padding:0 5px 0 0px;
+}
+ul.subul_main.group_holder span.yjm_has_all {
+	margin-right:0;
+}
+/* IMAGE ONLY*/
+span.yjm_has_image {
+	background-position:99% 5px;
+	background-repeat:no-repeat;
+	padding:0 30px 0 0px;
+}
+/* ul ul style */
+ul.subul_main span.yjm_has_image {
+	background-position:99% 5px;
+	padding:0px 30px 0px 10px;
+	margin-right:8px;
+	margin-left:0;
+}
+ul.subul_main.group_holder span.yjm_has_image {
+	margin-right:5px;
+}
+/* ONLY DESCRIPTION HOLDER*/
+/* ul ul style */
+ul.subul_main span.yjm_has_desc {
+	margin-right:8px;
+	margin-left:0;
+	padding:0 10px 5px 10px;
+}
+ul.subul_main span.yjm_has_desc span.yjm_title {
+	padding:0 5px 0 0px;
+}
+/* ONLY TITLE HOLDER*/
+ul.subul_main span.yjm_has_none span.yjm_title {
+	line-height:32px;
+	padding:0 10px 0 0px;
+	margin-right:8px;
+	margin-left:0;
+}
+ul.subul_main.group_holder span.yjm_has_none span.yjm_title {
+	margin-right:0;
+}
+/* DESCRIPTION*/
+span.yjm_desc {
+	display:block;
+	font-weight:normal;
+	font-size:11px;
+	line-height:10px;
+	text-transform:capitalize;
+}
+/*ul ul style*/
+ul.subul_main span.yjm_desc {
+	line-height:17px;
+	padding:0 5px 0 0px;
+}
+ul.subul_main span.child span.yjm_has_all span.yjm_title, ul.subul_main span.child span.yjm_has_all span.yjm_desc {
+	padding-left:20px;
+	padding-right:0;
+}
+ul.subul_main.dropline div.yj_menu_module_holder {
+	margin-right:0px;
+	margin-left:20px;
+}
+/*TOP LEFT*/
+.horiznav li.tl, .horiznav li.tl:hover {
+	display:block;
+	position:absolute;
+	width:20px;
+	height:26px;
+	line-height:20px;
+	padding:0px;
+	margin:0px;
+	z-index:100;
+	top:-13px;
+	left:-10px;
+}
+/* TOP RIGHT AND BOTTOM RIGHT*/
+.horiznav li.tr, .horiznav li.br {
+	width:100%;
+	height:20px;
+	display:block;
+	position:absolute;
+	padding:0px;
+	margin:0px;
+	z-index:90;
+}
+.horiznav li.tr, .horiznav li.tr:hover {
+	top:-13px;
+	left:10px;
+}
+.horiznav li.br, .horiznav li.br:hover {
+	bottom:-13px;
+	left:10px;
+}
+/* BOTTOM LEFT AND RIGHT MIDDLE*/
+.horiznav li.bl, .horiznav li.bl:hover, .horiznav li.right, .horiznav li.right:hover {
+	height:100%;
+	width:20px;
+	display:block;
+	position:absolute;
+	padding:0px;
+	margin:0px;
+	z-index:900;
+}
+.horiznav li.bl, .horiznav li.bl:hover {
+	left:-10px;
+	top:13px;
+	right:auto;
+}
+.horiznav li.right, .horiznav li.right:hover {
+	left:auto;
+	top:7px;
+	right:-10px;
+}
+/* REMOVE LI BORDERS FROM CORNERS*/
+li.tl, li.tr, li.bl, li.br, li.right {
+	border:none!important;
+}
+/* DRPLINE*/
+.horiznav ul ul.subul_main.dropline {
+	float:right!important;
+}
+.horiznav ul ul.subul_main.dropline li {
+	float:right!important;
+}
+.horiznav ul ul.subul_main.dropline li a, .horiznav ul ul.subul_main.dropline li a:hover {
+	padding-right:0;
+	padding-left:20px;
+}
+.horiznav ul li ul ul.subul_main.dropline li, .horiznav ul li ul ul.subul_main.dropline li:hover, .horiznav ul li ul ul.subul_main.dropline a, .horiznav ul li ul ul.subul_main.dropline a:hover {
+	padding:0!important;
+}
+.horiznav li li li:hover ul.subul_main.dropline {
+	/*	margin-right:95%!important;*/
+	margin-left:0!important;
+}
+/*FIRST SUB LEVEL PARENT ITEM ARROWS*/
+ul.subul_main.dropline li.haschild span.child a,
+ul.subul_main.dropline li.haschild span.child a:hover {
+	background-position:5% 12px!important;
+}
+
+#pathway .yjsg_breadcrumbs a.pathway {
+	margin:0 0px 0 0;
+	padding:0 15px 0 15px;
+	background-position:right center;
+}
+/* flip top*/
+#topmenu_holder{
+/*	float:left;
+	text-align:left;
+	*width:100%;
+	display:inline-block;
+	clear:both;*/
+}
+#logo{
+	left:auto;
+	right:0;
+	float:right;
+}
+#yjsgheadergrid{
+	right:auto;
+	left:0;
+	float:left;
+	text-align:left;
+}
+/* menus 1.6 changes */
+/* Menu item with image only , no text*/
+
+/* all other levels*/
+ul.subul_main span.no_text {
+	padding:3px 10px 3px 0px!important;
+}
+
+/***MAECENAS***/
+/***MENU***/
+#topmenu_holder {
+	float:left;
+}
+/***Arrow on the left of the title***/
+/***has none***/
+ul.subul_main span.yjm_has_none span.yjm_title{
+	padding:0 10px 0 0!important;
+}
+/***has none haschild***/
+ul.subul_main li.haschild span.yjm_has_none span.yjm_title{
+	background-position:right 13px!important;	
+}
+/***has none haschild hover,active***/
+ul.subul_main li.haschild span.yjm_has_none span.yjm_title:hover,
+ul.subul_main li.active.haschild span.yjm_has_none span.yjm_title{
+	background-position:right 13px!important;	
+}
+/***has desc***/
+ul.subul_main span.yjm_has_desc{
+	padding:0 10px 0 0!important;
+}
+/***has desc haschild***/
+ul.subul_main li.haschild span.yjm_has_desc{
+	background-position:right 7px!important;	
+}
+/***has desc haschild hover,active***/
+ul.subul_main li.haschild span.yjm_has_desc:hover,
+ul.subul_main li.active.haschild span.yjm_has_desc{
+	background-position:right 7px!important;	
+}
+ul.subul_main li.haschild span.child a,
+ul.subul_main ul.subul_main li.haschild span.child a,
+ul.subul_main ul.subul_main ul.subul_main li.haschild span.child a,
+ul.subul_main ul.subul_main ul.subul_main ul.subul_main li.haschild span.child a{
+	background-image:none!important;
+}
+/***SUB ARROW LEFT***/
+ul.subul_main:after {
+    right:-8px;
+	left:auto;
+	transform:rotateY(180deg);
+	-ms-transform:rotateY(180deg); /* Internet Explorer */
+	-moz-transform:rotateY(180deg); /* Firefox */
+	-webkit-transform:rotateY(180deg); /* Safari and Chrome */
+	-o-transform:rotateY(180deg); /* Opera */
+}
+/***LEVEL ONE TOP ARROW***/
+ul.subul_main.level1:after {
+    right:35px;
+	left:auto;
+}
+/***YOUBRICKS MODULE***/
+.myb .YouBricks_content .YouBricks_box_in a.item_title {
+    text-align:right;
+}
+.myb .YouBricks_content .YouBricks_box_in .counters .clikes,
+.myb .YouBricks_content .YouBricks_box_in .counters .cviews{
+	float:right!important;
+}
+.myb .YouBricks_content .YouBricks_box_in div.item_details{
+	float:right;
+}
+.myb .YouBricks_content .YouBricks_box_in .item_details .item_category,
+.myb .YouBricks_content .YouBricks_box_in .item_details .item_cdate,
+.myb .YouBricks_content .YouBricks_box_in .item_details .item_author{
+	margin:5px 0px 5px 5px;
+	padding:5px 25px 5px 5px;
+	background-position:right center;
+}
+/***CUSTOM MODULES GRID4***/
+h4.template_h4 {
+	margin:0 10px 0 0;
+}
+p.template_paragraph2 {
+	padding:0 10px 0 15px;
+}
+/***MODULE ENGINE***/
+.mme {
+	margin:0 15px 0 25px!important;
+}
+.mme .yjme_item_in {
+	padding:15px 30px 15px 5px;
+	background-position:right 19px;
+}
+.mme .yjme_item div.imageholder {
+	margin:0 0 0 10px;
+}
+/***YJ LATEST TWEETS***/
+.mlt .yj_twitter_cont {
+	padding:15px 30px 15px 5px;
+	background-position:right 19px;
+}
+/***SUBSCRIBE***/
+.subscribe {
+	margin:0 25px 0 15px!important;
+}
+/***K2***/
+/***Category view***/
+div.subCategory a.subCategoryImage{
+	margin:0 0 0 20px;
+	float:right;
+}
+a.subCategoryMore {
+	float:right;
+}
+/***Category item view***/
+div.itemListCategory h2 {
+	float:right;
+}
+div.itemListCategory p {
+	float:right;
+}
+div.catItemView {
+	margin:0 0 25px 40px;
+}
+span.catItemAuthor, span.catItemDateCreated, div.catItemCategory, div.catItemCommentsLink {
+	float:right;
+	margin:0 0 0 10px;
+	padding:5px 25px 5px 5px;
+	background-position:right center;
+}
+div.catItemReadMore a {
+	float:right;
+}
+/***Item view***/
+#k2Container.itemView{
+	margin:0 0 0 35px;
+}
+div.itemToolbar ul li {
+	padding:0 5px;
+	margin:0 5px;
+}
+span.itemAuthor, span.itemDateCreated, div.itemCategory {
+	float:right;
+	margin:0 0 0 10px;
+	padding:5px 25px 5px 5px!important;
+	background-position:right center;
+}
+ul.preSocialLinks, ul.preSocialLinks li{
+	float:right;
+}
+span.preSocialsTitle{
+	margin:0;
+}
+img.itemAuthorAvatar{
+	float:right!important;
+	margin:3px 0 0 20px!important;
+}
+div.itemComments ul.itemCommentsList li img {
+	margin:0 0 0 20px;
+	float:right;
+}
+span.commentLink,span.commentToolbar{
+	float:left!important;
+}
+div.itemComments ul.itemCommentsList li p {
+    padding:4px 75px 0 0px;
+}
+div.itemComments{
+	overflow:hidden!important;
+}
+div.itemCommentsForm form input#submitCommentButton{
+	float:right!important;
+	clear:both;
+}
+/***Tag View***/
+div.tagView .itemView {
+	margin:0 0 25px 40px;
+}
+div.tagView .itemReadMore a {
+	float:right;
+}
+/***User view***/
+div.userView div.itemView {
+	margin:0 0 25px 40px!important;
+}
+div.userView div.userBlock {
+	margin:20px 0 20px 35px;
+}
+div.userView div.userBlock img{
+	margin:8px 0 0 20px;
+}
+div.userView .itemView{
+	margin:0 0 0 30px!important;
+}
+div.userView .itemCommentsLink a{
+	margin:0 0 0 10px;
+	padding:5px 25px 5px 5px;
+}
+div.userView div.itemIntroText {
+	float:right;
+}
+div.userView .itemReadMore a {
+	float:right;
+}
+div.itemCommentsLink{
+	float:right;
+}
+div.itemCommentsLink a{
+	background-position:right center!important;
+}
+/***Latest***/
+div.latestView .latestItemList{
+	margin:0 0 25px 40px;
+}
+div.latestView .catItemTagsBlock{
+	float:right;
+}
+/***Generic View***/
+div.genericView .itemView{
+	margin:0 0 25px 40px;
+}
+div.genericView .itemIntroText{
+	float:right;
+}
+div.genericView .itemReadMore a{
+	float:right;
+}
+span.catItemDateCreated{
+	float:right!important;
+}
+/***TWITTER RIGHT***/
+.mlt2 .yj_twitter_cont{
+	padding:12px 0 12px 25px;
+}
+div.k2ItemsBlock ul li a.moduleItemImage{
+    margin:0 0 0 15px!important;
+	float:right;
+}
+/***TAG CLOUD***/
+div.k2TagCloudBlock a,
+div.k2TagCloudBlock a:hover{
+	margin:5px 0 5px 10px;
+	float:right;
+}
+/***K2 MENU***/
+div.k2CategoriesListBlock ul li a{
+	padding-right:0px!important;
+}

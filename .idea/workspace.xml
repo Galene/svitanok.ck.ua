@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="682fc9cd-3079-462b-a6bf-8f228ba69f3e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/bg-BG/bg-BG.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/bg-BG/bg-BG.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/da-DK/da-DK.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/da-DK/da-DK.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/de-DE/de-DE.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/de-DE/de-DE.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/el-GR/el-GR.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/el-GR/el-GR.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/es-ES/es-ES.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/es-ES/es-ES.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/fr-FR/fr-FR.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/fr-FR/fr-FR.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/hr-HR/hr-HR.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/hr-HR/hr-HR.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/it-IT/it-IT.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/it-IT/it-IT.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/ja-JP/ja-JP.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/ja-JP/ja-JP.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/nl-NL/nl-NL.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/nl-NL/nl-NL.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/pl-PL/pl-PL.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/pl-PL/pl-PL.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/pt-BR/pt-BR.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/pt-BR/pt-BR.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/administrator/language/ru-RU/ru-RU.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-frontend.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-responsive-frontend.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/img/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/bootstrap/js/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/chosen/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/chosen/chosen-sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/chosen/chosen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/chosen/chosen.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/chosen/chosen.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/chosen/chosen.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/chosen/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/font-icomoon/css/icomoon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/font-icomoon/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/font-icomoon/fonts/IcoMoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/font-icomoon/fonts/IcoMoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/font-icomoon/fonts/IcoMoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/font-icomoon/fonts/IcoMoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/font-icomoon/fonts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/font-icomoon/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ck/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ck/jquery.ck.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/jquery.dynatree.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/skin/icons-rtl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/skin/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/skin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/skin/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/skin/ui.dynatree.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/skin/vline-rtl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-dynatree/skin/vline.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-layout/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-layout/jquery.layout.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-tipsy/images/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-tipsy/images/tipsy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-tipsy/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-tipsy/jquery.tipsy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-tipsy/tipsy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-bg_glass_75_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/images/ui-icons_f6cf3b_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/css/ui-bootstrap/jquery-ui-1.9.0.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/js/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery-ui/js/jquery-ui-1.9.1.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/jquery/jquery-1.8.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/respond/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/3rd-party/respond/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-admin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-admintemplates.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-advanced-parameters.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-fonticomoon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-general.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-gui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-pages.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/css/jsn-positions.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/backgrounds/bg-fonts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/backgrounds/bg-handle-resize-h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/backgrounds/bg-handle-resize-v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/backgrounds/bg-pattern-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/backgrounds/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-16/icon-16-loading-circle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-16/icons-16-layout-active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-16/icons-16-layout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-16/icons-16-social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-16/icons-16-uni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-16/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-24/icon-24-dark-loading-circle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-24/icon-24-loading-circle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-24/icons-24-flag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-24/icons-24-joomla.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-24/icons-24-social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-24/icons-24-uni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-24/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-32/icon-32-loading-circle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-32/icons-32-products.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-32/icons-32-social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-32/icons-32-uni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-32/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-48/icons-48-products.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-48/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-64/icons-64-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-64/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-8/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-8/tipsy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/icons-8/ui-window-closetextkeyword.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/images/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/font.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/layout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/maintenance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/noconflict.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/quickstart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/sample-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/social-integration.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/upgrade.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/assets/joomlashine/js/width-type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/installer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/jsntplframework.defines.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/jsntplframework.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/jsntplframework.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/bg-BG/bg-BG.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/bg-BG/bg-BG.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/da-DK/da-DK.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/da-DK/da-DK.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/de-DE/de-DE.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/de-DE/de-DE.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/el-GR/el-GR.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/el-GR/el-GR.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/en-GB/en-GB.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/en-GB/en-GB.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/es-ES/es-ES.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/es-ES/es-ES.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/fr-FR/fr-FR.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/fr-FR/fr-FR.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/hr-HR/hr-HR.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/hr-HR/hr-HR.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/it-IT/it-IT.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/it-IT/it-IT.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/ja-JP/ja-JP.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/ja-JP/ja-JP.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/nl-NL/nl-NL.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/nl-NL/nl-NL.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/pl-PL/pl-PL.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/pl-PL/pl-PL.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/pt-BR/pt-BR.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/pt-BR/pt-BR.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/ru-RU/ru-RU.plg_system_jsntplframework.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/language/ru-RU/ru-RU.plg_system_jsntplframework.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/PhpThumb/GdThumb.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/PhpThumb/PHPThumb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/PhpThumb/PhpThumb.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/PhpThumb/ThumbBase.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/PhpThumb/ThumbLib.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/PhpThumb/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/PhpThumb/thumb_plugins/gd_reflection.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/PhpThumb/thumb_plugins/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/httpclient/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/httpclient/http.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/httpclient/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/3rd-party/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/api/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/api/lightcart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/archive/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/archive/zip.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/compress/css.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/compress/helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/compress/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/compress/js.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/elements/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/elements/jsnframeworkcheck.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/field.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsncheckbox.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsncolorlist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsnfolder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsnfont.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsnlayout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsnlistcolor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsnmedia.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsnradio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsnsocialintegration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsntext.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/jsnwidthtype.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/tmpl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/tmpl/jsncolorlist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/tmpl/jsnfont.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/tmpl/jsnlayout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/tmpl/jsnlistcolor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/tmpl/jsnsocialintegration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/tmpl/jsntext.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/fields/tmpl/jsnwidthtype.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/form/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/http/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/http/request.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/edition.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/helper_v1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/migration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/params.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/params_v1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/recognization.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/tmpl/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/tmpl/default_assignment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/tmpl/default_home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/tmpl/default_layout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/template/tmpl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/utils.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/version.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/base.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/font.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/integrity.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/maintenance.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/media.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/quickstart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/sample.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/quickstart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/quickstart/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/sample/confirm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/sample/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/sample/install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/update/confirm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/update/framework_confirm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/update/framework_install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/update/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/update/install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/upgrade/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/upgrade/intro.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/upgrade/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/tmpl/upgrade/upgrade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/system/jsntplframework/libraries/joomlashine/widget/upgrade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/backups/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/component.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/PIE.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/colors/brown.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/colors/cyan.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/colors/green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/colors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/colors/orange.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/colors/pink.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/colors/red.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/error.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/jsn_fixie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/jsn_iconlinks.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/jsn_rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/jsn_social_icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/layouts/jsn_mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/layouts/jsn_wide.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/offline.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/styles/business.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/styles/custom.css.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/styles/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/styles/news.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/styles/personal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/css/template_pro.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/editions.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/k2/font_decrease.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/k2/font_increase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/k2/icon-featured.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/k2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/k2/jsn_ext_k2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/button-search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/icon-base.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/icon-minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/jsn_ext_vm.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/nav_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/quantity-controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/ext/vm/view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/gpl-2.0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/categories/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/categories/default_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/categories/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/category/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/category/default_children.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/category/default_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/category/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/contact/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/contact/default_address.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/contact/default_articles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/contact/default_form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/contact/default_links.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/contact/default_profile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/contact/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/featured/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/featured/default_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/featured/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_contact/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/article/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/article/default_links.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/article/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/category/blog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/category/blog_children.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/category/blog_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/category/blog_links.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/category/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/category/default_articles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/category/default_children.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/category/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/featured/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/featured/default_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/featured/default_links.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/featured/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/form/edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/form/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/icon.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_content/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/category_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/category_item_links.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/latest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/latest_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/default/user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_k2/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/categories/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/categories/default_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/categories/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/category/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/category/default_children.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/category/default_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/category/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/newsfeed/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_newsfeeds/newsfeed/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_search/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_search/search/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_search/search/default_error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_search/search/default_form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_search/search/default_results.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_search/search/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/login/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/login/default_login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/login/default_logout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/login/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/profile/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/profile/default_core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/profile/default_custom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/profile/default_params.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/profile/edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/profile/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/registration/complete.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/registration/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/registration/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/remind/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/remind/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/reset/complete.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/reset/confirm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/reset/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_users/reset/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/askquestion/form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/askquestion/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/askquestion/mail_confirmed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/askquestion/mail_html_question.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/askquestion/mail_raw_question.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/default_coupon.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/default_pricelist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/mini_cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/order_done.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/select_payment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/select_shipment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/cart/shopper_adresses.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/categories/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/categories/default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/categories/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/category/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/category/default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/category/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/invoice.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/invoice_history.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/invoice_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/invoice_order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html_footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html_header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html_pricelist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html_shopper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html_shopper_more.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html_shopperaddresses.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html_vendor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_html_vendor_more.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_raw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_raw_footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_raw_pricelist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_raw_shopper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_raw_shopperaddresses.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/invoice/mail_raw_vendor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/manufacturer/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/manufacturer/default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/manufacturer/details.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/manufacturer/details.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/manufacturer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/details.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/details.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/details_history.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/details_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/details_order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/details_pdf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/list.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/orders/list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/pdf/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/pdf/view.pdf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/pdf/view.raw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/pluginresponse/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/pluginresponse/metadata.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/pluginresponse/tmpl/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/pluginresponse/tmpl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/pluginresponse/view.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_addtocart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_customfields.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_images.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_manufacturer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_pdf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_relatedcategories.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_relatedproducts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_reviews.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_showcategory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/default_showprices.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/mail_html_notify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/mail_raw_notify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/notify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/pdf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/productdetails/pdf.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/recommend/form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/recommend/form.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/recommend/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/recommend/mail_confirmed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/recommend/mail_html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/recommend/mail_raw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit_address.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit_address_addshipto.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit_address_userfields.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit_orderlist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit_shopper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit_vendor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/edit_vmshopper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/editaddress.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/mail_html_reguser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/mail_html_regvendor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/mail_raw_reguser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/user/mail_raw_regvendor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/virtuemart/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/virtuemart/default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/virtuemart/default_categories.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/virtuemart/default_products.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/virtuemart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_virtuemart/virtuemart/off_line.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/categories/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/categories/default_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/categories/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/category/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/category/default_children.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/category/default_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/category/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/form/edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/form/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_weblinks/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_wrapper/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_wrapper/wrapper/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/com_wrapper/wrapper/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_articles_news/_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_articles_news/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_articles_news/horizontal.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_articles_news/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_articles_news/vertical.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_breadcrumbs/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_breadcrumbs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_custom/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_custom/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_finder/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_finder/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_comments/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_comments/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_content/default/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_content/default/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_content/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/authors.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/breadcrumbs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/calendar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/categories.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/customcode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_tools/tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_user/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_user/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_user/userblock.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_users/default/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_users/default/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_k2_users/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_login/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_login/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_menu/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_menu/default_component.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_menu/default_separator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_menu/default_url.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_menu/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_search/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_search/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_cart/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_cart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_category/all.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_category/current.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_category/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_category/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_manufacturer/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_manufacturer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_product/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_product/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_product/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_search/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/mod_virtuemart_search/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/modules.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/html/pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/backgrounds/bg-contact.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/backgrounds/bg-map.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/backgrounds/bg-promo-pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/backgrounds/bg-promo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/backgrounds/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/backgrounds/popup-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/brown/bg-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/brown/bg-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/brown/bg-title-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/brown/bg-title-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/brown/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/brown/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/cyan/bg-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/cyan/bg-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/cyan/bg-title-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/cyan/bg-title-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/cyan/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/cyan/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/green/bg-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/green/bg-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/green/bg-title-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/green/bg-title-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/green/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/green/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/orange/bg-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/orange/bg-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/orange/bg-title-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/orange/bg-title-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/orange/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/orange/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/pink/bg-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/pink/bg-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/pink/bg-title-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/pink/bg-title-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/pink/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/pink/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/red/bg-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/red/bg-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/red/bg-title-conner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/red/bg-title-conner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/red/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/colors/red/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-ajax-loader-circle.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-ajax-loader-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-arrow-black-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-arrow-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-arrow-white-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-arrow-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-cms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-alert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-attachment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-audio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-blockquote-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-blockquote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-info.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-text-video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-toggle-collapse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-toggle-expand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icon-tweet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icons-base.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icons-ext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icons-mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icons-sitetools-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icons-social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icons-uni-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/icons-uni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/icons/view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/images/offline-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/js/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/js/jsn_template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/bg-BG/bg-BG.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/bg-BG/bg-BG.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/bg-BG/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/da-DK/da-DK.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/da-DK/da-DK.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/da-DK/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/de-DE/de-DE.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/de-DE/de-DE.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/de-DE/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/el-GR/el-GR.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/el-GR/el-GR.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/el-GR/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/en-GB/en-GB.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/en-GB/en-GB.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/en-GB/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/es-ES/es-ES.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/es-ES/es-ES.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/es-ES/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/fr-FR/fr-FR.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/fr-FR/fr-FR.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/fr-FR/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/hr-HR/hr-HR.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/hr-HR/hr-HR.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/hr-HR/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/it-IT/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/it-IT/it-IT.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/it-IT/it-IT.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/ja-JP/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/ja-JP/ja-JP.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/ja-JP/ja-JP.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/nl-NL/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/nl-NL/nl-NL.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/nl-NL/nl-NL.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/pl-PL/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/pl-PL/pl-PL.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/pl-PL/pl-PL.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/pt-BR/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/pt-BR/pt-BR.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/pt-BR/pt-BR.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/ru-RU/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/ru-RU/ru-RU.tpl_jsn_yoyo_pro.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/language/ru-RU/ru-RU.tpl_jsn_yoyo_pro.sys.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/offline.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/template.checksum" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/template.defines.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/templateDetails.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/template_custom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/template_layout_adjustment.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/template_preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jsn_yoyo_pro/template_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/css/kunena.skinner-min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/css/kunena.skinner.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/images/discussion-emty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/images/discussion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/images/icon-arrow-black-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/images/icon-arrow-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/images/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/images/template_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/initialize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/language/en-GB.com_kunena.tpl_jsn_yoyo.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/language/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/params.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5df3b08f4/jsn_yoyo/template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/css/kunena.skinner-min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/css/kunena.skinner.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/images/discussion-emty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/images/discussion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/images/icon-arrow-black-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/images/icon-arrow-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/images/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/images/template_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/initialize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/language/en-GB.com_kunena.tpl_jsn_yoyo.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/language/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/params.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e5fb9b3981/jsn_yoyo/template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/css/kunena.skinner-min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/css/kunena.skinner.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/images/discussion-emty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/images/discussion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/images/icon-arrow-black-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/images/icon-arrow-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/images/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/images/template_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/initialize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/language/en-GB.com_kunena.tpl_jsn_yoyo.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/language/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/params.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/jsn_yoyo.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/mod_languages/images/ru.gif" afterPath="$PROJECT_DIR$/media/mod_languages/images/ru.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_finder/helpers/indexer/adapter.php" afterPath="$PROJECT_DIR$/administrator/components/com_finder/helpers/indexer/adapter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/models/articles.php" afterPath="$PROJECT_DIR$/components/com_content/models/articles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_item.php" afterPath="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_item.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/category/blog_item.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/category/blog_item.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_links.php" afterPath="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/category/blog_links.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/category/blog_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/cache/cache.php" afterPath="$PROJECT_DIR$/libraries/joomla/cache/cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/updater/adapters/collection.php" afterPath="$PROJECT_DIR$/libraries/joomla/updater/adapters/collection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration.php" afterPath="$PROJECT_DIR$/configuration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/html/toolbar/button/confirm.php" afterPath="$PROJECT_DIR$/libraries/joomla/html/toolbar/button/confirm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_contact/tables/contact.php" afterPath="$PROJECT_DIR$/administrator/components/com_contact/tables/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_contact/models/contact.php" afterPath="$PROJECT_DIR$/components/com_contact/models/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/finder/content/content.php" afterPath="$PROJECT_DIR$/plugins/finder/content/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/search/content/content.php" afterPath="$PROJECT_DIR$/plugins/search/content/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/http/transport/curl.php" afterPath="$PROJECT_DIR$/libraries/joomla/http/transport/curl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/application/daemon.php" afterPath="$PROJECT_DIR$/libraries/joomla/application/daemon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/database/database.php" afterPath="$PROJECT_DIR$/libraries/joomla/database/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/category/tmpl/default_articles.php" afterPath="$PROJECT_DIR$/components/com_content/views/category/tmpl/default_articles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/category/default_articles.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/category/default_articles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/featured/tmpl/default_item.php" afterPath="$PROJECT_DIR$/components/com_content/views/featured/tmpl/default_item.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/featured/default_item.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/featured/default_item.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/archive/tmpl/default_items.php" afterPath="$PROJECT_DIR$/components/com_content/views/archive/tmpl/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/archive/default_items.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/archive/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/featured/tmpl/default_links.php" afterPath="$PROJECT_DIR$/components/com_content/views/featured/tmpl/default_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/featured/default_links.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/featured/default_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_joomlaupdate/helpers/download.php" afterPath="$PROJECT_DIR$/administrator/components/com_joomlaupdate/helpers/download.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/form/fields/email.php" afterPath="$PROJECT_DIR$/libraries/joomla/form/fields/email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/html/html/email.php" afterPath="$PROJECT_DIR$/libraries/joomla/html/html/email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_media.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_media.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_media.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_media.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.lib_joomla.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.lib_joomla.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.lib_joomla.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.lib_joomla.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/templates/bluestork/error.php" afterPath="$PROJECT_DIR$/administrator/templates/bluestork/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/templates/hathor/error.php" afterPath="$PROJECT_DIR$/administrator/templates/hathor/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/templates/system/error.php" afterPath="$PROJECT_DIR$/administrator/templates/system/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/error/error.php" afterPath="$PROJECT_DIR$/libraries/joomla/error/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/error.php" afterPath="$PROJECT_DIR$/templates/beez5/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez_20/error.php" afterPath="$PROJECT_DIR$/templates/beez_20/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/error.php" afterPath="$PROJECT_DIR$/templates/system/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/updater/adapters/extension.php" afterPath="$PROJECT_DIR$/libraries/joomla/updater/adapters/extension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/controllers/file.json.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/controllers/file.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/controllers/file.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/controllers/file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/controllers/folder.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/controllers/folder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/form/form.php" afterPath="$PROJECT_DIR$/libraries/joomla/form/form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/client/ftp.php" afterPath="$PROJECT_DIR$/libraries/joomla/client/ftp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/authentication/gmail/gmail.php" afterPath="$PROJECT_DIR$/plugins/authentication/gmail/gmail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/cache/storage/helpers/helper.php" afterPath="$PROJECT_DIR$/libraries/joomla/cache/storage/helpers/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/installer/helper.php" afterPath="$PROJECT_DIR$/libraries/joomla/installer/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_articles_category/helper.php" afterPath="$PROJECT_DIR$/modules/mod_articles_category/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_articles_latest/helper.php" afterPath="$PROJECT_DIR$/modules/mod_articles_latest/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_articles_news/helper.php" afterPath="$PROJECT_DIR$/modules/mod_articles_news/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_articles_popular/helper.php" afterPath="$PROJECT_DIR$/modules/mod_articles_popular/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_related_items/helper.php" afterPath="$PROJECT_DIR$/modules/mod_related_items/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/helpers/icon.php" afterPath="$PROJECT_DIR$/components/com_content/helpers/icon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/index.html" afterPath="$PROJECT_DIR$/administrator/language/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/filter/input.php" afterPath="$PROJECT_DIR$/libraries/joomla/filter/input.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_menus/controllers/item.php" afterPath="$PROJECT_DIR$/administrator/components/com_menus/controllers/item.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/joomla.xml" afterPath="$PROJECT_DIR$/joomla.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/manifests/files/joomla.xml" afterPath="$PROJECT_DIR$/administrator/manifests/files/joomla.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/system/languagefilter/languagefilter.php" afterPath="$PROJECT_DIR$/plugins/system/languagefilter/languagefilter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/helpers/media.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/helpers/media.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/media/js/mediamanager.js" afterPath="$PROJECT_DIR$/media/media/js/mediamanager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_menus/models/fields/menutype.php" afterPath="$PROJECT_DIR$/administrator/components/com_menus/models/fields/menutype.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/methods.php" afterPath="$PROJECT_DIR$/libraries/joomla/methods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_footer/mod_footer.php" afterPath="$PROJECT_DIR$/modules/mod_footer/mod_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_modules/models/module.php" afterPath="$PROJECT_DIR$/administrator/components/com_modules/models/module.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/offline.css" afterPath="$PROJECT_DIR$/templates/system/css/offline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/offline.php" afterPath="$PROJECT_DIR$/templates/system/offline.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/offline_rtl.css" afterPath="$PROJECT_DIR$/templates/system/css/offline_rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/content/pagebreak/pagebreak.php" afterPath="$PROJECT_DIR$/plugins/content/pagebreak/pagebreak.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/content/pagenavigation/pagenavigation.php" afterPath="$PROJECT_DIR$/plugins/content/pagenavigation/pagenavigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_admin/models/profile.php" afterPath="$PROJECT_DIR$/administrator/components/com_admin/models/profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_users/models/profile.php" afterPath="$PROJECT_DIR$/components/com_users/models/profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/captcha/recaptcha/recaptcha.php" afterPath="$PROJECT_DIR$/plugins/captcha/recaptcha/recaptcha.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_users/models/registration.php" afterPath="$PROJECT_DIR$/components/com_users/models/registration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_contact/helpers/route.php" afterPath="$PROJECT_DIR$/components/com_contact/helpers/route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/helpers/route.php" afterPath="$PROJECT_DIR$/components/com_content/helpers/route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_newsfeeds/helpers/route.php" afterPath="$PROJECT_DIR$/components/com_newsfeeds/helpers/route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_weblinks/helpers/route.php" afterPath="$PROJECT_DIR$/components/com_weblinks/helpers/route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/http/transport/socket.php" afterPath="$PROJECT_DIR$/libraries/joomla/http/transport/socket.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/database/database/sqlsrv.php" afterPath="$PROJECT_DIR$/libraries/joomla/database/database/sqlsrv.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/database/database/sqlsrvquery.php" afterPath="$PROJECT_DIR$/libraries/joomla/database/database/sqlsrvquery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/http/transport/stream.php" afterPath="$PROJECT_DIR$/libraries/joomla/http/transport/stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/updater/update.php" afterPath="$PROJECT_DIR$/libraries/joomla/updater/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/updater/updater.php" afterPath="$PROJECT_DIR$/libraries/joomla/updater/updater.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_users/models/user.php" afterPath="$PROJECT_DIR$/administrator/components/com_users/models/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/database/table/user.php" afterPath="$PROJECT_DIR$/libraries/joomla/database/table/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_users/models/users.php" afterPath="$PROJECT_DIR$/administrator/components/com_users/models/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/system/js/validate-uncompressed.js" afterPath="$PROJECT_DIR$/media/system/js/validate-uncompressed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/system/js/validate.js" afterPath="$PROJECT_DIR$/media/system/js/validate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/cms/version/version.php" afterPath="$PROJECT_DIR$/libraries/cms/version/version.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/category/view.feed.php" afterPath="$PROJECT_DIR$/components/com_content/views/category/view.feed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/featured/view.feed.php" afterPath="$PROJECT_DIR$/components/com_content/views/featured/view.feed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_finder/views/search/view.feed.php" afterPath="$PROJECT_DIR$/components/com_finder/views/search/view.feed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/views/medialist/view.html.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/views/medialist/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/article/view.html.php" afterPath="$PROJECT_DIR$/components/com_content/views/article/view.html.php" />
+    </list>
+    <ignored path="svitanok.ck.ua.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="682fc9cd-3079-462b-a6bf-8f228ba69f3e" time="1387974882358" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="svitanok.ck.ua" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="menus.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/maecenas/css/menus.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="25" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/maecenas/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="component.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/maecenas/component.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="36" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-15.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templateDetails.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/maecenas/templateDetails.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offline.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/maecenas/offline.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="126" selection-start="3434" selection-end="3434" vertical-scroll-proportion="1.4864864">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/templates/maecenas/css/menus.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="y" value="25" />
+    <option name="width" value="1444" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svitanok.ck.ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svitanok.ck.ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svitanok.ck.ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svitanok.ck.ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svitanok.ck.ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svitanok.ck.ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svitanok.ck.ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maecenas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../svitanok.loc" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="682fc9cd-3079-462b-a6bf-8f228ba69f3e" name="Default" comment="" />
+      <created>1386152197816</created>
+      <updated>1386152197816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="25" width="1444" height="877" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25322813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/banners/osmbanner1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banners/osmbanner2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banners/white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banners/shop-ad-books.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banners/osmbanner1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banners/osmbanner2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banners/white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banners/shop-ad-books.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/maecenas/css/menus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="25" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/maecenas/templateDetails.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/maecenas/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/maecenas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/maecenas/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="36" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-15.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/maecenas/offline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="126" selection-start="3434" selection-end="3434" vertical-scroll-proportion="1.4864864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

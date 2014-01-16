@@ -1,0 +1,71 @@
+/*======================================================================*\
+|| #################################################################### ||
+|| # Package - Joomla Template based on YJSimpleGrid Framework          ||
+|| # Copyright (C) 2010  Youjoomla LLC. All Rights Reserved.            ||
+|| # license - PHP files are licensed under  GNU/GPL V2                 ||
+|| # license - CSS  - JS - IMAGE files  are Copyrighted material        ||
+|| # bound by Proprietary License of Youjoomla LLC                      ||
+|| # for more information visit http://www.youjoomla.com/license.html   ||
+|| # Redistribution and  modification of this software                  ||
+|| # is bounded by its licenses                                         ||
+|| # websites - http://www.youjoomla.com | http://www.yjsimplegrid.com  ||
+|| #################################################################### ||
+\*======================================================================*/
+/* user pages */
+div.userpageswrap{
+	width:100%;
+	overflow:hidden;
+	padding:40px 0;
+}
+div.userpages{
+	width:350px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:10px 20px;
+}
+div.userpages .inputbox[type="text"],
+div.userpages .inputbox[type="password"],
+div.userpages .inputbox[type="email"]{
+	padding:10px 0;
+	text-indent:5px;
+	width:100%;
+	margin:0 auto;
+}
+div.userpages h1{
+	text-align:center;
+	font-size:200%;
+	font-weight:normal;
+	padding:0;
+	margin:0;
+}
+div.userpageswrap.login,
+div.userpageswrap.remind,
+div.userpageswrap.reset,
+div.userpageswrap.confirm,
+div.userpageswrap.offline{
+	background: url(../images/login_lock.png) no-repeat right center;
+}
+div.userpageswrap.register{
+background: url(../images/register_key.png) no-repeat right center;
+}
+div.userpageswrap.logout{
+	padding:100px 0;
+	text-align:center;
+	background: url(../images/logout.png) no-repeat right center;
+}
+div.userpageswrap.user{
+	background: url(../images/user.png) no-repeat right center;
+}
+div.userpageswrap.user div.userpages{
+	width:525px;
+}
+/*16 and up*/
+div.userpageswrap.user dt{
+	font-weight:bold;
+	padding:5px;
+	margin:0 0 5px 0;
+}
+div.userpageswrap.user dd{
+	padding:0 0 5px 0;
+	font-size:120%;
+}

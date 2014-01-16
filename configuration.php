@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = 'Сайт закрыт на техническое обслуживание.<br /> Пожалуйста, зайдите позже.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'svitanok.ck.ua';
+	public $sitename = 'svitanok';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -16,9 +16,9 @@ class JConfig {
 	public $user = 'root';
 	public $password = 'g3916294';
 	public $db = 'svitanok';
-	public $dbprefix = 'yc0tb_';
+	public $dbprefix = 't1bj6_';
 	public $live_site = '';
-	public $secret = 'nsaV8qw5V0NxBbpA';
+	public $secret = 'erqvDMBn81UmTDpS';
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help{major}{minor}:{keyref}';
@@ -31,7 +31,7 @@ class JConfig {
 	public $offset = 'UTC';
 	public $mailer = 'mail';
 	public $mailfrom = 'galina.ck@gmail.com';
-	public $fromname = 'svitanok.ck.ua';
+	public $fromname = 'svitanok';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '0';
 	public $smtpuser = '';
@@ -53,8 +53,8 @@ class JConfig {
 	public $sef_suffix = '0';
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
-	public $log_path = '/home/gala/www/svitanok.ck.ua/logs';
-	public $tmp_path = '/home/gala/www/svitanok.ck.ua/tmp';
+	public $log_path = '/svitanok.ck.ua/logs';
+	public $tmp_path = '/svitanok.ck.ua/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 }
