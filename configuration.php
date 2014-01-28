@@ -12,12 +12,12 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
-	public $host = 'localhost';
-	public $user = 'root';
-	public $password = 'g3916294';
-	public $db = 'svitanok';
+	public $host = 'mysql.hostinger.com.ua';
+	public $user = 'u268761301_juser';
+	public $password = 'XDmSLbVJJzLv';
+	public $db = 'u268761301_jmla';
 	public $dbprefix = 't1bj6_';
-	public $live_site = '';
+	public $live_site = 'http://svitanok.esy.es/';
 	public $secret = 'erqvDMBn81UmTDpS';
 	public $gzip = '0';
 	public $error_reporting = 'default';
@@ -30,7 +30,7 @@ class JConfig {
 	public $ftp_enable = '0';
 	public $offset = 'UTC';
 	public $mailer = 'mail';
-	public $mailfrom = 'galina.ck@gmail.com';
+	public $mailfrom = 'pearson@inbox.ru';
 	public $fromname = 'svitanok';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '0';
@@ -53,8 +53,8 @@ class JConfig {
 	public $sef_suffix = '0';
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
-	public $log_path = '/svitanok.ck.ua/logs';
-	public $tmp_path = '/svitanok.ck.ua/tmp';
+	public $log_path = '/logs';
+	public $tmp_path = '/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 }
