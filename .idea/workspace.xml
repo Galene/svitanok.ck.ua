@@ -785,109 +785,10 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/params.ini" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/install_529e64450830c/template.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/jsn_yoyo.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/mod_languages/images/ru.gif" afterPath="$PROJECT_DIR$/media/mod_languages/images/ru.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_finder/helpers/indexer/adapter.php" afterPath="$PROJECT_DIR$/administrator/components/com_finder/helpers/indexer/adapter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/models/articles.php" afterPath="$PROJECT_DIR$/components/com_content/models/articles.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_item.php" afterPath="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_item.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/category/blog_item.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/category/blog_item.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_links.php" afterPath="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog_links.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/category/blog_links.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/category/blog_links.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/cache/cache.php" afterPath="$PROJECT_DIR$/libraries/joomla/cache/cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/updater/adapters/collection.php" afterPath="$PROJECT_DIR$/libraries/joomla/updater/adapters/collection.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration.php" afterPath="$PROJECT_DIR$/configuration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/html/toolbar/button/confirm.php" afterPath="$PROJECT_DIR$/libraries/joomla/html/toolbar/button/confirm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_contact/tables/contact.php" afterPath="$PROJECT_DIR$/administrator/components/com_contact/tables/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_contact/models/contact.php" afterPath="$PROJECT_DIR$/components/com_contact/models/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/finder/content/content.php" afterPath="$PROJECT_DIR$/plugins/finder/content/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/search/content/content.php" afterPath="$PROJECT_DIR$/plugins/search/content/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/http/transport/curl.php" afterPath="$PROJECT_DIR$/libraries/joomla/http/transport/curl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/application/daemon.php" afterPath="$PROJECT_DIR$/libraries/joomla/application/daemon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/database/database.php" afterPath="$PROJECT_DIR$/libraries/joomla/database/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/category/tmpl/default_articles.php" afterPath="$PROJECT_DIR$/components/com_content/views/category/tmpl/default_articles.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/category/default_articles.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/category/default_articles.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/featured/tmpl/default_item.php" afterPath="$PROJECT_DIR$/components/com_content/views/featured/tmpl/default_item.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/featured/default_item.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/featured/default_item.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/archive/tmpl/default_items.php" afterPath="$PROJECT_DIR$/components/com_content/views/archive/tmpl/default_items.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/archive/default_items.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/archive/default_items.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/featured/tmpl/default_links.php" afterPath="$PROJECT_DIR$/components/com_content/views/featured/tmpl/default_links.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/html/com_content/featured/default_links.php" afterPath="$PROJECT_DIR$/templates/beez5/html/com_content/featured/default_links.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_joomlaupdate/helpers/download.php" afterPath="$PROJECT_DIR$/administrator/components/com_joomlaupdate/helpers/download.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/form/fields/email.php" afterPath="$PROJECT_DIR$/libraries/joomla/form/fields/email.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/html/html/email.php" afterPath="$PROJECT_DIR$/libraries/joomla/html/html/email.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_media.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_media.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_media.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_media.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.lib_joomla.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.lib_joomla.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.lib_joomla.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.lib_joomla.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/templates/bluestork/error.php" afterPath="$PROJECT_DIR$/administrator/templates/bluestork/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/templates/hathor/error.php" afterPath="$PROJECT_DIR$/administrator/templates/hathor/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/templates/system/error.php" afterPath="$PROJECT_DIR$/administrator/templates/system/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/error/error.php" afterPath="$PROJECT_DIR$/libraries/joomla/error/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez5/error.php" afterPath="$PROJECT_DIR$/templates/beez5/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez_20/error.php" afterPath="$PROJECT_DIR$/templates/beez_20/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/error.php" afterPath="$PROJECT_DIR$/templates/system/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/updater/adapters/extension.php" afterPath="$PROJECT_DIR$/libraries/joomla/updater/adapters/extension.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/controllers/file.json.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/controllers/file.json.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/controllers/file.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/controllers/file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/controllers/folder.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/controllers/folder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/form/form.php" afterPath="$PROJECT_DIR$/libraries/joomla/form/form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/client/ftp.php" afterPath="$PROJECT_DIR$/libraries/joomla/client/ftp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/authentication/gmail/gmail.php" afterPath="$PROJECT_DIR$/plugins/authentication/gmail/gmail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/cache/storage/helpers/helper.php" afterPath="$PROJECT_DIR$/libraries/joomla/cache/storage/helpers/helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/installer/helper.php" afterPath="$PROJECT_DIR$/libraries/joomla/installer/helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_articles_category/helper.php" afterPath="$PROJECT_DIR$/modules/mod_articles_category/helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_articles_latest/helper.php" afterPath="$PROJECT_DIR$/modules/mod_articles_latest/helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_articles_news/helper.php" afterPath="$PROJECT_DIR$/modules/mod_articles_news/helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_articles_popular/helper.php" afterPath="$PROJECT_DIR$/modules/mod_articles_popular/helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_related_items/helper.php" afterPath="$PROJECT_DIR$/modules/mod_related_items/helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/helpers/icon.php" afterPath="$PROJECT_DIR$/components/com_content/helpers/icon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/index.html" afterPath="$PROJECT_DIR$/administrator/language/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/filter/input.php" afterPath="$PROJECT_DIR$/libraries/joomla/filter/input.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_menus/controllers/item.php" afterPath="$PROJECT_DIR$/administrator/components/com_menus/controllers/item.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/joomla.xml" afterPath="$PROJECT_DIR$/joomla.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/manifests/files/joomla.xml" afterPath="$PROJECT_DIR$/administrator/manifests/files/joomla.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/system/languagefilter/languagefilter.php" afterPath="$PROJECT_DIR$/plugins/system/languagefilter/languagefilter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/helpers/media.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/helpers/media.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/media/js/mediamanager.js" afterPath="$PROJECT_DIR$/media/media/js/mediamanager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_menus/models/fields/menutype.php" afterPath="$PROJECT_DIR$/administrator/components/com_menus/models/fields/menutype.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/methods.php" afterPath="$PROJECT_DIR$/libraries/joomla/methods.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_footer/mod_footer.php" afterPath="$PROJECT_DIR$/modules/mod_footer/mod_footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_modules/models/module.php" afterPath="$PROJECT_DIR$/administrator/components/com_modules/models/module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/offline.css" afterPath="$PROJECT_DIR$/templates/system/css/offline.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/offline.php" afterPath="$PROJECT_DIR$/templates/system/offline.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/offline_rtl.css" afterPath="$PROJECT_DIR$/templates/system/css/offline_rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/content/pagebreak/pagebreak.php" afterPath="$PROJECT_DIR$/plugins/content/pagebreak/pagebreak.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/content/pagenavigation/pagenavigation.php" afterPath="$PROJECT_DIR$/plugins/content/pagenavigation/pagenavigation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_admin/models/profile.php" afterPath="$PROJECT_DIR$/administrator/components/com_admin/models/profile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_users/models/profile.php" afterPath="$PROJECT_DIR$/components/com_users/models/profile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/captcha/recaptcha/recaptcha.php" afterPath="$PROJECT_DIR$/plugins/captcha/recaptcha/recaptcha.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_users/models/registration.php" afterPath="$PROJECT_DIR$/components/com_users/models/registration.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_contact/helpers/route.php" afterPath="$PROJECT_DIR$/components/com_contact/helpers/route.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/helpers/route.php" afterPath="$PROJECT_DIR$/components/com_content/helpers/route.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_newsfeeds/helpers/route.php" afterPath="$PROJECT_DIR$/components/com_newsfeeds/helpers/route.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_weblinks/helpers/route.php" afterPath="$PROJECT_DIR$/components/com_weblinks/helpers/route.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/http/transport/socket.php" afterPath="$PROJECT_DIR$/libraries/joomla/http/transport/socket.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/database/database/sqlsrv.php" afterPath="$PROJECT_DIR$/libraries/joomla/database/database/sqlsrv.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/database/database/sqlsrvquery.php" afterPath="$PROJECT_DIR$/libraries/joomla/database/database/sqlsrvquery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/http/transport/stream.php" afterPath="$PROJECT_DIR$/libraries/joomla/http/transport/stream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/updater/update.php" afterPath="$PROJECT_DIR$/libraries/joomla/updater/update.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/updater/updater.php" afterPath="$PROJECT_DIR$/libraries/joomla/updater/updater.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_users/models/user.php" afterPath="$PROJECT_DIR$/administrator/components/com_users/models/user.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/joomla/database/table/user.php" afterPath="$PROJECT_DIR$/libraries/joomla/database/table/user.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_users/models/users.php" afterPath="$PROJECT_DIR$/administrator/components/com_users/models/users.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/system/js/validate-uncompressed.js" afterPath="$PROJECT_DIR$/media/system/js/validate-uncompressed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/system/js/validate.js" afterPath="$PROJECT_DIR$/media/system/js/validate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/cms/version/version.php" afterPath="$PROJECT_DIR$/libraries/cms/version/version.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/category/view.feed.php" afterPath="$PROJECT_DIR$/components/com_content/views/category/view.feed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/featured/view.feed.php" afterPath="$PROJECT_DIR$/components/com_content/views/featured/view.feed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_finder/views/search/view.feed.php" afterPath="$PROJECT_DIR$/components/com_finder/views/search/view.feed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_media/views/medialist/view.html.php" afterPath="$PROJECT_DIR$/administrator/components/com_media/views/medialist/view.html.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_content/views/article/view.html.php" afterPath="$PROJECT_DIR$/components/com_content/views/article/view.html.php" />
     </list>
     <ignored path="svitanok.ck.ua.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="682fc9cd-3079-462b-a6bf-8f228ba69f3e" time="1387974882358" ignored="false" />
+    <file path="/Dummy.txt" changelist="682fc9cd-3079-462b-a6bf-8f228ba69f3e" time="1390301352642" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -919,7 +820,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/maecenas/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -928,7 +829,7 @@
       <file leaf-file-name="component.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/maecenas/component.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="36" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-15.0">
+            <state line="24" column="36" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -946,7 +847,7 @@
       <file leaf-file-name="offline.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/maecenas/offline.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="126" selection-start="3434" selection-end="3434" vertical-scroll-proportion="1.4864864">
+            <state line="66" column="126" selection-start="3434" selection-end="3434" vertical-scroll-proportion="0.2005988">
               <folding />
             </state>
           </provider>
@@ -1007,7 +908,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1060,11 +960,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../svitanok.loc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../geekdrupal" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -1086,7 +987,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25322813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25681493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1162,6 +1063,20 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/maecenas/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="36" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/maecenas/offline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="126" selection-start="3434" selection-end="3434" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/banners/osmbanner1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1230,14 +1145,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/maecenas/component.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="36" selection-start="1603" selection-end="1603" vertical-scroll-proportion="-15.0">
+        <state line="24" column="36" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/maecenas/offline.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="126" selection-start="3434" selection-end="3434" vertical-scroll-proportion="1.4864864">
+        <state line="66" column="126" selection-start="3434" selection-end="3434" vertical-scroll-proportion="0.2005988">
           <folding />
         </state>
       </provider>
